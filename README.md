@@ -1,8 +1,8 @@
 ## TMINST
-#Abstract:
+# Abstract:
 This project involved implementing a Convolutional Neural Network (CNN) using PyTorch, a popular deep learning framework, to accurately classify images of digits from 0 to 9. The dataset used was the MNIST dataset, which contained 60,000 training images and 10,000 test images. The goal was to achieve a high level of accuracy in correctly identifying the digits.
 
-#Methodology:
+# Methodology:
 The methodology used in this project involved implementing a Convolutional Neural Network (CNN) using PyTorch to classify images of digits from 0 to 9.
 
 Firstly, I constructed the CNN architecture, which consisted of two convolutional layers that extracted features from the images, followed by two fully connected layers that produced the final classification output.
